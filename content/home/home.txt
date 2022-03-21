@@ -1,0 +1,157 @@
+Title: Home
+
+----
+
+Headline: How Do **You** Choc?
+
+----
+
+Summary: Enter to be in to win **win** a years exclusive supply of the **limited** edition double choc chip bagel
+
+----
+
+Cta: Enter
+
+----
+
+Slider:
+
+- 
+  image:
+    - abe_0015-bagel-portraits-yellow-1718.png
+  sliderlabel: Ooey Gooey Explosion
+- 
+  image:
+    - abe_0015-bagel-portraits-yellow-1808.jpg
+  sliderlabel: Another One
+
+----
+
+About:
+
+You’ve come to the right place. 
+<br><br>
+We got our hands dirty, hired some fellow choc-sperts, and have been working hard behind the scenes to bring you the best choc chip bagel you can possibly get your hands on. Laced with vanilla and packed with both milk chocolate chips and caramelised white chocolate chunks, The Double Choc Chip is a sweet bagel revolution ready to lightly toast and melt at your fingertips
+<br><br>
+Once it’s gone from shelves, it’s gone forever, but we have an exclusive one year’s supply of the Limited Edition Double Choc Chip bagel give away to someone who can out choc our in house chocoholics, and whip up the ultimate Double Choc Chip bagel creation.
+
+----
+
+Enterheadline: ... So how do I win?
+
+----
+
+Apply:
+
+Get your hands on The Double Choc Chip, get em into the toaster and get creative! 
+<br><br>
+We’re talking weird, wild, mouth-watering, or just plain delish. There’s no such thing as too crazy…let your imagination run wild and show us how you choc!
+
+----
+
+Instructions:
+
+- 
+  header: Get Chocd
+  directions: >
+    Head to your nearest supermarket and get
+    a pack of Double Choc Chip deliciousness
+    and choose your Choc weapons of choice.
+- 
+  header: Get Wild
+  directions: >
+    The sky is the limit. It could be
+    delish, weird or wild but epic is a must
+    – whip up your best Double Choc Chip
+    creation, and shoot your best shot.
+- 
+  header: Get In
+  directions: |
+    Show us your choc by uploading a pic here, or throwing it on the gram and tagging us @abesbagels with the hashtag #ABESGOTCHOC
+    <br><br>
+    Easy as pie (or bagels) – you’re in the draw! Keep your eyes peeled to see what other wild creations roll in, or choc it up all over again for another chance to be the receiver of an exclusive Double Choc Chip supply.
+
+----
+
+Galleryheadline: How do you choc?
+
+----
+
+Galleryhashtag: #abesgotchoc
+
+----
+
+Galleryitem:
+
+- 
+  itemtitle: Bagel
+  itemtext: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae
+  mainimage:
+    - abe_0015-bagel-portraits-yellow-1596.jpg
+  hoverimage: [ ]
+- 
+  itemtitle: Bagel 2
+  itemtext: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae ab ill
+  mainimage:
+    - abe_0015-bagel-portraits-yellow-2008.jpg
+  hoverimage: [ ]
+- 
+  itemtitle: ""
+  itemtext: ""
+  mainimage:
+    - abe_0015-bagel-portraits-yellow-1893.jpg
+  hoverimage: [ ]
+- 
+  itemtitle: ""
+  itemtext: ""
+  mainimage:
+    - abe_0015-bagel-portraits-yellow-1808.jpg
+  hoverimage: [ ]
+- 
+  itemtitle: ""
+  itemtext: ""
+  mainimage:
+    - abe_0015-bagel-portraits-yellow-1908.jpg
+  hoverimage: [ ]
+- 
+  itemtitle: ""
+  itemtext: ""
+  mainimage:
+    - abe_0015-bagel-portraits-yellow-2053.jpg
+  hoverimage: [ ]
+- 
+  itemtitle: ""
+  itemtext: ""
+  mainimage:
+    - abe_0015-bagel-portraits-yellow-2001.jpg
+  hoverimage: [ ]
+
+----
+
+Tnc:
+
+TERMS & CONDITIONS
+Abe’s Real Bagels Limited ABN 94 829 824 873 (“Abe’s”, “we”, “us”, “our”) recognises the importance of safeguarding your personal information and compliance with the Privacy Act 1988 (“the Act”).
+We will collect, disclose, handle and use personal information as described in this privacy policy, as authorised by you and/or as required or authorised by law. By providing your personal information, you consent to the collection, use, transfer and disclosure of your information under the terms of this privacy policy. We reserve the right to update this privacy policy from time to time. Any changes we may make to our privacy policy in the future will be posted on this website.
+
+COLLECTION OF PERSONAL INFORMATION
+We treat information as personal information if an individual person can be reasonably identified from that information. We will usually collect your personal information directly from you wherever it is reasonable and practicable to do so in the circumstances.
+<br><br>
+We usually collect personal information in the following ways: through your general dealings with us, including but not limited to, enquires, feedback, questions or complaints, or employment applications; If you enter or complete one of our competitions, offers, surveys or trade incentives or request or agree to receive information about us, our services or products;
+<br><br>
+From credit reporting agencies, law enforcement agencies and government entities, where necessary to process a requested transaction;
+your representatives (lawyers, accountants and financial advisers) and/or your employer, where necessary to process a requested transaction; and publicly available sources of information or via any other method where you have given your consent.
+<br><br>
+Personal information mentioned above may be collected via our websites, selected third parties, via phone, in person, via fax, via email, via mail or via any other method determined by us. The types of information we collect will depend on the nature of our relationship with you and may include, but is not limited to: Full name and contact details (including but not limited to your postal address, email address and phone numbers); demographic and employment information (including but not limited to your date and year of birth, gender, State or Territory of residence, occupation); and other information about your dealings with us.
+
+----
+
+Galleryimage: 

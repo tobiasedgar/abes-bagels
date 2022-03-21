@@ -1,0 +1,188 @@
+title: Home
+icon: 🏠
+options:
+  delete: false
+  changeTemplate: false
+  changeStatus: false
+
+tabs:
+  hero:
+    columns:
+      - width: 1/3
+        fields:
+          headline:
+            required: true
+            label: Headline
+            width: 1/4
+            type: text
+            inline: true
+            marks:
+              - bold
+              - italic
+              - underline
+      - width: 2/3
+        fields:
+          summary:
+            required: true
+            label: Summary Text
+            type: textarea
+            inline: true
+            marks:
+              - bold
+              - italic
+              - underline
+          cta:
+            required: true
+            label: Call To Action Text
+            width: 1/2
+            type: text
+            inline: true
+            marks:
+              - bold
+              - italic
+              - underline
+              
+  about:
+    columns:
+      - width: 1/2
+        fields:
+          slider:
+            label: Recipe Slider
+            type: structure
+            fields:
+              image:
+                required: true
+                label: Slider Image
+                type: files
+                multiple: false
+                extends: files/uploader
+              sliderlabel:
+                required: true
+                label: Slider Label
+                type: text
+                inline: true
+                marks:
+                  - bold
+                  - italic
+                  - underline
+      - width: 1/2
+        fields:
+          about:
+            required: true
+            label: About
+            type: textarea
+            inline: true
+            marks:
+              - bold
+              - italic
+              - underline
+          
+        
+  enter:
+    columns:
+      - width: 1/3
+        fields:
+          enterheadline:
+            required: true
+            label: Headline
+            type: text
+          apply:
+            required: true
+            label: How To Apply
+            type: textarea  
+            inline: true
+            marks:
+              - bold
+              - italic
+              - underline 
+      - width: 2/3
+        fields:
+          instructions:
+            type: structure
+            label: Enter Instructions
+            fields:
+              header:
+                required: true
+                type: text
+                inline: true
+                marks:
+                  - bold
+                  - italic
+                  - underline   
+              directions:
+                required: true
+                type: textarea
+                inline: true
+                marks:
+                  - bold
+                  - italic
+                  - underline   
+
+
+  gallery:
+    fields:
+      galleryheadline:
+        required: true
+        width: 1/2
+        label: Headline
+        type: text
+        inline: true
+        marks:
+          - bold
+          - italic
+          - underline 
+      galleryhashtag:
+        required: true
+        width: 1/2
+        label: Hashtag
+        type: text
+        inline: true
+        marks:
+          - bold
+          - italic
+          - underline 
+      galleryitem:
+        type: structure
+        label: Gallery Item
+        fields:
+          itemtitle:
+            width: 1/3
+            label: Title
+            help: This image will show when mouse is hovering Main Image
+            type: text
+          itemtext:
+            width: 1/3
+            label: Text
+            type: textarea
+            maxlength: 196
+          mainimage:
+            width: 1/3
+            label: Image
+            multiple: false
+            type: files
+            extends: files/uploader
+
+  
+  termsandconditions:
+    label: T's & C's
+    fields:
+      tnc:
+        required: true
+        width: 2/3
+        label: Terms & Conditions
+        type: textarea
+        inline: true
+        marks:
+          - bold
+          - italic
+          - underline 
+
+      
+
+  files:
+      sections:
+        images:
+          type: files
+          layout: cards
+          template: image
+          size: small

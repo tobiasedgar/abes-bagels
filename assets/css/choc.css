@@ -1,0 +1,147 @@
+.bagels {
+  position: absolute;
+  z-index: 3;
+  top: -2rem;
+  left: -2rem;
+  height: 5rem;
+  -webkit-transition: height 0.8s ease, top 0.4s ease,left 0.4s ease;
+  -moz-transition: height 0.8s ease, top 0.4s ease,left 0.4s ease;
+  -o-transition: height 0.8s ease, top 0.4s ease,left 0.4s ease;
+  transition: height 0.8s ease, top 0.4s ease,left 0.4s ease; }
+
+.choc,
+.choc_delay {
+  position: absolute;
+  z-index: 2;
+  top: -2rem;
+  left: -2rem;
+  width: 1rem;
+  height: 1rem;
+  -webkit-transition: height 0.7s ease-out, top 0.9s ease-out,left 0.9s ease-out;
+  -moz-transition: height 0.7s ease-out, top 0.7s ease-out,left 0.7s ease-out;
+  -o-transition: height 0.7s ease-out, top 0.9s ease-out,left 0.9s ease-out;
+  transition: height 0.7s ease-out, top 0.9s ease-out,left 0.9s ease-out;
+  transform: translate(-50%, -50%); }
+
+.after {
+  width: auto;
+  height: 8rem; }
+
+.bagels.after {
+  top: 0rem;
+  left: 2%;
+  height: 60rem; }
+
+.choc__1.after {
+  top: 6rem;
+  left: 2%; }
+
+.choc__2.after {
+  top: 42rem;
+  left: 4%; }
+
+.choc__3.after {
+  top: 31rem;
+  left: -0.5rem; }
+
+.choc__4.after {
+  top: 15rem;
+  left: 24%; }
+
+.choc__5.after {
+  top: 56rem;
+  left: 10%; }
+
+.choc__6.after {
+  top: 19rem;
+  left: 22%; }
+
+.choc__7.after {
+  top: 16rem;
+  left: -3%; }
+
+.choc__8.after {
+  top: 32rem;
+  left: 32%; }
+
+.choc__9.after {
+  top: 38rem;
+  left: 28%; }
+
+.choc__10.after {
+  top: 6rem;
+  left: 20%; }
+
+.choc__11.after {
+  top: 14rem; }
+
+.choc__12.after {
+  top: 58rem;
+  left: 28%; }
+
+.choc__13.after {
+  top: 50rem;
+  left: 22%; }
+
+.choc__14.after {
+  top: 50rem;
+  left: -3%; }
+
+.choc__15.after {
+  top: 20rem;
+  left: 2%; }
+
+.choc__16.after {
+  top: 48rem;
+  left: 38%; }
+
+.choc__17.after {
+  top: 20rem;
+  left: 37%; }
+
+.choc__18.after {
+  top: 34rem;
+  left: 40%; }
+
+.choc__19.after {
+  top: 38rem;
+  left: -3%; }
+
+.choc__lower {
+  position: absolute;
+  z-index: 3;
+  margin-top: 125rem;
+  height: 8rem; }
+
+.choc__20 {
+  top: 6rem;
+  right: 4rem; }
+
+.choc__21 {
+  right: 5%;
+  top: 0%; }
+
+.choc__22 {
+  top: 40%;
+  right: 8%; }
+
+.choc__23 {
+  top: 70%;
+  right: 2%; }
+
+.choc__24 {
+  top: 105%;
+  right: 0%; }
+
+.choc__25 {
+  top: 130%;
+  right: 2%; }
+
+.choc__26 {
+  top: 167%;
+  right: 8%; }
+
+@media screen and (max-width: 1000px) {
+  .choc__lower {
+    margin-top: 200rem;
+    height: 6rem; } }

@@ -1,0 +1,61 @@
+Title: Abes Bagels
+
+----
+
+Description: 
+
+----
+
+Keywords: 
+
+----
+
+Ogimage: 
+
+----
+
+Faviconimage:
+
+- abes.svg
+
+----
+
+Logoimage:
+
+- abes.svg
+
+----
+
+Formspark: https://submit-form.com/hxb3UbVn
+
+----
+
+Uploadcare: f0ec234f04208e306bb9
+
+----
+
+Googleanalyticsid: 
+
+----
+
+Instagramname: 
+
+----
+
+Telephone: 
+
+----
+
+Email: 
+
+----
+
+Address: 
+
+----
+
+Addresslat: 
+
+----
+
+Addresslong: 
